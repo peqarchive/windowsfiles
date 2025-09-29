@@ -3,9 +3,11 @@
   <h3 align="center">For Perl and Mariadb, etc, you can use the download links below. </h3>
 
 </p>
+MariaDB:
+https://dlm.mariadb.com/3277103/MariaDB/mariadb-10.11.4/winx64-packages/mariadb-10.11.4-winx64.msi
 
-https://mariadb.com/downloads/
+Strawberry Perl:
+https://strawberryperl.com/download/5.24.4.1/strawberry-perl-5.24.4.1-64bit.msi
 
-https://strawberryperl.com/releases.html
-
+VC Redist:
 https://aka.ms/vs/17/release/vc_redist.x64.exe
