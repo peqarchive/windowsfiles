@@ -12,3 +12,8 @@ https://strawberryperl.com/download/5.24.4.1/strawberry-perl-5.24.4.1-64bit.msi
 
 VC Redist:
 https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+
+Most recent server binaries:
+
+https://github.com/EQEmu/Server/releases/download/v23.10.3/eqemu-server-windows-x64.zip
