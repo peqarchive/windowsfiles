@@ -14,6 +14,6 @@ VC Redist:
 https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 
-Most recent server binaries:
+Most recent server binaries: (if you're not compiling your own source)
 
 https://github.com/EQEmu/Server/releases/download/v23.10.3/eqemu-server-windows-x64.zip
